@@ -1,0 +1,5 @@
+{
+    "rust-analyzer.linkedProjects": [
+        "./day1_trebuchet_p2/Cargo.toml"
+    ]
+}
